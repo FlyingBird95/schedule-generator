@@ -1,0 +1,359 @@
+teams:
+  - name: "Men 1"
+    players:
+      - Player A
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+  - name: "Men 2"
+    players:
+      - Player A
+      - Player B
+      - Player C
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+  - name: "Men 3"
+    players:
+      - Player D
+      - Player E
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+  - name: "Men 4"
+    players:
+      - Player B
+      - Player F
+      - Player G
+      - Player H
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+      - "External Court 1 at 19:00 - 20:30"
+      - "External Court 2 at 19:00 - 20:30"
+      - "External Court 1 at 20:30 - 22:00"
+      - "External Court 2 at 20:30 - 22:00"
+  - name: "Men 5"
+    players:
+      - Player H
+      - Player I
+      - Player J
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+      - "External Court 1 at 19:00 - 20:30"
+      - "External Court 2 at 19:00 - 20:30"
+      - "External Court 1 at 20:30 - 22:00"
+      - "External Court 2 at 20:30 - 22:00"
+  - name: "Men 6"
+    players:
+      - Player K
+      - Player L
+      - Player M
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+      - "External Court 1 at 19:00 - 20:30"
+      - "External Court 2 at 19:00 - 20:30"
+      - "External Court 1 at 20:30 - 22:00"
+      - "External Court 2 at 20:30 - 22:00"
+  - name: "Men 7"
+    players:
+      - Player N
+      - Player O
+      - Player C
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+      - "External Court 1 at 19:00 - 20:30"
+      - "External Court 2 at 19:00 - 20:30"
+      - "External Court 1 at 20:30 - 22:00"
+      - "External Court 2 at 20:30 - 22:00"
+  - name: "Men 8"
+    players:
+      - Player G
+      - Player P
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+      - "External Court 1 at 19:00 - 20:30"
+      - "External Court 2 at 19:00 - 20:30"
+      - "External Court 1 at 20:30 - 22:00"
+      - "External Court 2 at 20:30 - 22:00"
+  - name: "Ladies 1"
+    players:
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+  - name: "Ladies 2"
+    players:
+      - Player Q
+      - Player D
+      - Player R
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+  - name: "Ladies 3"
+    players:
+      - Player Q
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+  - name: "Ladies 4"
+    players:
+      - Player E
+      - Player A
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+  - name: "Ladies 5"
+    players:
+      - Player K
+      - Player I
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+      - "External Court 1 at 19:00 - 20:30"
+      - "External Court 2 at 19:00 - 20:30"
+      - "External Court 1 at 20:30 - 22:00"
+      - "External Court 2 at 20:30 - 22:00"
+  - name: "Ladies 6"
+    players:
+      - Player S
+      - Player J
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+      - "External Court 1 at 19:00 - 20:30"
+      - "External Court 2 at 19:00 - 20:30"
+      - "External Court 1 at 20:30 - 22:00"
+      - "External Court 2 at 20:30 - 22:00"
+  - name: "Ladies 7"
+    players:
+      - Player F
+      - Player T
+      - Player S
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+  - name: "Ladies 8"
+    players:
+      - Player T
+      - Player R
+    availableCourts:
+      - "Court 1 at 17:30 - 18:50"
+      - "Court 2 at 17:30 - 18:50"
+      - "Court 3 at 17:30 - 18:50"
+      - "Court 1 at 18:50 - 20:10"
+      - "Court 2 at 18:50 - 20:10"
+      - "Court 3 at 18:50 - 20:10"
+      - "Court 1 at 20:10 - 21:40"
+      - "Court 2 at 20:10 - 21:40"
+      - "Court 3 at 20:10 - 21:40"
+      - "Court 1 at 21:40 - 23:00"
+      - "Court 2 at 21:40 - 23:00"
+      - "Court 3 at 21:40 - 23:00"
+      - "External Court 1 at 19:00 - 20:30"
+      - "External Court 2 at 19:00 - 20:30"
+      - "External Court 1 at 20:30 - 22:00"
+      - "External Court 2 at 20:30 - 22:00"
+
+courts:
+  - name: "Court 1 at 17:30 - 18:50"
+    begin: "17:30"
+    end: "18:50"
+  - name: "Court 2 at 17:30 - 18:50"
+    begin: "17:30"
+    end: "18:50"
+  - name: "Court 3 at 17:30 - 18:50"
+    begin: "17:30"
+    end: "18:50"
+  - name: "Court 1 at 18:50 - 20:10"
+    begin: "18:50"
+    end: "20:10"
+  - name: "Court 2 at 18:50 - 20:10"
+    begin: "18:50"
+    end: "20:10"
+  - name: "Court 3 at 18:50 - 20:10"
+    begin: "18:50"
+    end: "20:10"
+  - name: "Court 1 at 20:10 - 21:40"
+    begin: "20:10"
+    end: "21:40"
+  - name: "Court 2 at 20:10 - 21:40"
+    begin: "20:10"
+    end: "21:40"
+  - name: "Court 3 at 20:10 - 21:40"
+    begin: "20:10"
+    end: "21:40"
+  - name: "Court 1 at 21:40 - 23:00"
+    begin: "21:40"
+    end: "23:00"
+  - name: "Court 2 at 21:40 - 23:00"
+    begin: "21:40"
+    end: "23:00"
+  - name: "Court 3 at 21:40 - 23:00"
+    begin: "21:40"
+    end: "23:00"
+  - name: "External Court 1 at 19:00 - 20:30"
+    begin: "19:00"
+    end: "20:30"
+  - name: "External Court 2 at 19:00 - 20:30"
+    begin: "19:00"
+    end: "20:30"
+  - name: "External Court 1 at 20:30 - 22:00"
+    begin: "20:30"
+    end: "22:00"
+  - name: "External Court 2 at 20:30 - 22:00"
+    begin: "20:30"
+    end: "22:00"
